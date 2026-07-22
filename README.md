@@ -13,11 +13,11 @@ Veritas decomposes complex socio-political queries into checkable sub-questions,
 
 | Dashboard & Stage Tracker | Extracted Claims & Verification |
 |---|---|
-| ![Veritas Hero](https://raw.githubusercontent.com/dcsgod/veritas/main/docs/hero.png) | ![Claims View](https://raw.githubusercontent.com/dcsgod/veritas/main/docs/claims.png) |
+| ![Veritas Hero](docs/hero.png) | ![Claims View](docs/claims.png) |
 
 | Timeline View | Interactive Entity Graph |
 |---|---|
-| ![Timeline View](https://raw.githubusercontent.com/dcsgod/veritas/main/docs/timeline.png) | ![Entity Graph](https://raw.githubusercontent.com/dcsgod/veritas/main/docs/graph.png) |
+| ![Timeline View](docs/timeline.png) | ![Entity Graph](docs/graph.png) |
 
 ---
 
