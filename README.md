@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# veritas
-=======
+
 # ⚖️ Veritas — Deep Research & Claim-Verification Engine
 
 > **Multi-source, evidence-graded research engine for Indian socio-political topics.**
@@ -187,4 +185,3 @@ Open **http://localhost:5173** in your browser.
 ## 📜 License
 
 MIT License. See [LICENSE](LICENSE) for details.
->>>>>>> f5f5006 (feat: Initial release of Veritas Deep Research & Claim-Verification Engine)
